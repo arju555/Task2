@@ -1,0 +1,3 @@
+To create a File in home Directory - Using pwd command need to confirm we are in home directlory or what also if we see the ~ tilt symbol we can confirm we are in home directory
+using "touch demo.txt" we can create the demo.txt file
+command "chmod 764 demo.txt" will excute the permission as per the task owner can read/write/excute group read/write and others only read
